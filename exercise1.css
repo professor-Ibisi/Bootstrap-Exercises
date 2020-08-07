@@ -1,4 +1,4 @@
-.contanainer{
+.container{
     display: grid;
     grid-template-columns: 200px 300px 200px;
     grid-template-rows: 200px 2000px;
