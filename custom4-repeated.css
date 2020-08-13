@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    background-color:white;
+}
+
+.container{
+    font-family: sans-serif;
+    font-weight: 800px;
+    text-transform: lowercase;
+    font-size: 16px;
+    text-align: left;    
+}
+#my-main{
+    background-color:peru;
+}
