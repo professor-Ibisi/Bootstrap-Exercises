@@ -1,0 +1,51 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    background-image: url(../Bootstrap-Exercises/image/image3.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+  .form-group {
+    padding: 1em;
+    background: #f9f9f9;
+    border: 1px solid #c1c1c1;
+    margin-top: 2rem;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em;  
+  }
+  h1{
+      text-align: center;
+      color:rgb(38, 0, 255); 
+      margin-bottom: 40px;
+}
+  .form-group h4{
+      text-align: center;
+      color: rgb(65, 214, 225);
+      margin-top: auto;
+  }
+  hr{
+    margin-top: 10px;
+    width: 200px;
+}
+.btn{
+    color:#000;
+    width: 300px;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.form-control{
+    margin-top: 10px;
+    width: 200px;
+    align-self: start;
+}
+
+  
